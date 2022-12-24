@@ -4,7 +4,7 @@
 Grocery List:
 Bananas (6)
 Peanut Butter (1)
-Dark Chocolate Bars (4)
+Dark Chocolate Bars (5)
 **/
 /** create table and define properties **/
 CREATE TABLE groceries(id INTEGER primary KEY, name TEXT, quantity INTEGER);
